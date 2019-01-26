@@ -1,0 +1,15 @@
+{
+    "name": "myChatBot",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "https://04ambot.azurewebsites.net/api/messages",
+            "appId": "3dba41c6-e8ee-4e2b-807d-d4d0debc13a0",
+            "appPassword": "pctZRHTQ2420{{!kngzXS4~",
+            "id": "1"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}
